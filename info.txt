@@ -1,0 +1,3 @@
+# Data Diri
+- Nama Lengkap = Jason Williem Candra
+- Alasan Belajar Git = Memudahkan pekerjaan yang melibatkan kolaborasi
